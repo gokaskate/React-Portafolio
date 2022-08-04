@@ -38,10 +38,9 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. At eum praesentium sunt porro ipsum. 
-            Laborum, assumenda. Accusamus eligendi fugiat, amet in facere aperiam illum unde quia eos, sequi aliquid aut!
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi vero molestias animi iure praesentium, 
-            dignissimos in fugit sed placeat mollitia esse voluptate quis aperiam quia dolores consequatur odio distinctio omnis.
+            Desarrollador Angular, Html5 y Css3 con conocimientos en Haml y Sass manejo de bootstrap y otras librerías de estilos, 
+            material angular y angular CLI, manejo de webs SPA y responsive design también conocimientos del uso de typescript conocimientos básicos de pruebas unitarias, 
+            Json y servicios Rest y soap. Conocimientos base de React y un poco de redux.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Hablemos</a>
